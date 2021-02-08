@@ -4,7 +4,9 @@ public class Instructions_for_game {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Snake and Ladder game played with single player at start position 0");
+		int place_of_service=0;
+		System.out.println("Welcome to the game of Snake and Ladder where start position is 0");
+
 	}
 
 }
